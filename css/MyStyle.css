@@ -1,0 +1,533 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-image: url(../img/Synth.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+
+}
+
+.contenedor2{
+	width: 200px;
+	padding: 15px;
+
+}
+
+.formulario{
+	background: #fff;
+	margin-top: 100px;
+	padding: 50px;
+	margin-right: 220px;
+	margin-left: 220px;
+	border-radius: 10px;
+
+}
+h1{
+	text-align: center;
+	color:#00BFFF;
+	font-size: 40px;
+}
+
+input[type="text"]
+input[type="text"]{
+	font-size: 20px;
+	padding: 10px;
+	border: none;
+}
+
+.input-contenedor{
+	margin-bottom: 15px;
+	border: 1px solid #aaa;
+}
+
+.input-contenedor2{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.icon{
+	min-width: 50px;
+	text-align: center;
+	color: #999;
+}
+
+.button{
+	border: none;
+	width: 100px;
+	color: White
+	font-size: 20px;
+	background: #00BFFF;
+	padding: 15px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.button:hover{
+	background: #000080;
+}
+
+p{
+	text-align: center;
+}
+
+.link{
+	text-decoration: none;
+	color: #00BFFF;
+	font-weight: 600;
+}
+
+.link:hover{
+	@media(min-width: 768px);
+	.formulario{
+		margin: auto;
+		width: 500px;
+		margin-top: 150px;
+		border-radius: 2%;
+
+	}
+}
+
+@font-face{
+	font-family: chico;
+	src: url(../font/Need for Font.ttf);
+}
+
+@font-face{
+	font-family: miFuente;
+	src: url(../font/Need for Font.TTF);
+}
+
+h2{
+	font-family: arial;
+	font-size: 14px;
+}
+
+h1{
+	font-family: arial;
+	font-size: 18px;
+
+}
+
+h3{
+	font-family: chico;
+	font-size: 14px;
+}
+
+h4{
+	font-family: chico;
+	font-size: 20px;
+	color: white;
+}
+
+a:link {
+    color: purple;
+    background-color: transparent;
+    text-decoration: none;
+    font-family: miFuente;
+    font-size: 13px;
+}
+
+a:visited {
+    color: purple;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: purple;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+div.botom{
+	background-color: transparent;
+    color: white;
+    padding: 14px 25px;
+    font-family: miFuente;
+	font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#contenedor{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	background-color: transparent;
+}
+
+#primera{
+	width: 100%;
+	height: 40px;
+	margin: auto;
+	background-color: darkblue;
+}
+
+#inter1{
+	width: 940px;
+	height: 40px;
+	margin: auto;
+}
+
+#cantacto{
+	width: 400px;
+	height: 40px;
+	float: left;
+	display: inline-block;
+}
+
+#cotizacion{
+	width: 50px;
+	height: 40px;
+	float: right;
+}
+
+#segunda{
+	width: 940px;
+	height: 130px;
+	margin: auto;
+	background-color: transparent;
+}
+
+#logo{
+	width: 250px;
+	height: 130px;
+	float: left;
+	background-image: url(../img/images.png);
+}
+
+#menu{
+	width: 400px;
+	height: 130px;
+	float: right;
+
+}
+
+#sub1{
+	width: 100px;
+	height: 50px;
+	float: left;
+	padding-top: 50px;
+
+
+}
+
+#sub2{
+	width: 100px;
+	height: 50px;
+	float: left;
+	padding-top: 50px;
+}
+
+#sub3{
+	width: 100px;
+	height: 50px;
+	float: left;
+	padding-top: 50px;
+}
+
+#sub4{
+	width: 100px;
+	height: 50px;
+	float: left;
+	padding-top: 50px;
+}
+
+
+
+#tercera{
+	width: 940px;
+	height: 410px;
+	margin: auto;
+	background-color: transparent;
+
+}
+
+
+#img1{
+	color: white;
+	width: 220px;
+	height: 360px;
+	float: left;
+	margin: 5px;
+	text-align: center;
+
+}
+
+#img2{
+	width: 220px;
+	height: 360px;
+	float: left;
+	margin: 5px;
+	text-align: center;
+}
+
+#img3{
+	width: 220px;
+	height: 360px;
+	float: left;
+	margin: 5px;
+	text-align: center;
+}
+
+#img4{
+	color: white;
+	width: 220px;
+	height: 360;
+	float: left;
+	margin: 5px;
+	text-align: center;
+}
+
+
+
+#cuarta{
+	width: 940px;
+	height: 500px;
+	margin: auto;
+
+}
+
+#bienvenida{
+	color: white
+	width: 600px;
+	height: 500px;
+	margin: auto;
+	float: left;
+}
+
+#tituloB{
+	width: 600px;
+	height: 50px;
+}
+
+#contenidoB{
+	color: white;
+	width: 600px;
+	height: 450px;
+
+}
+
+#columnas{
+	width: 340px;
+	height: 500px;
+	margin: auto;
+	float: right;
+}
+
+#tituloC{
+	width: 340px;
+	height: 50px;
+}
+
+#contenidoC{
+	color: white;
+	width: 340px;
+	height: 450px;
+	image
+
+}
+
+#quinta{
+	width: 100%;
+	height: 200px;
+	margin: auto;
+	background-color: transparent;
+}
+
+#inter2{
+	color: white;
+	width: 940px;
+	height: 200px;
+	margin: auto;
+}
+
+#nose{
+	width: 280px;
+	height: 200px;
+	margin-right: 5px;
+	float: left;
+}
+
+#nose a:link {
+    color: white;
+    background-color: transparent;
+    font-family: chico;
+	font-size: 12px;
+
+}
+
+#nose a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+
+#submenu1{
+	width: 206px;
+	height: 200px;
+	margin-right: 5px;
+	margin-left: 30px;
+	float: left;
+}
+
+#submenu2{
+	width: 206px;
+	height: 200px;
+	margin-right: 5px;
+	float: left;
+}
+
+#submenu3{
+	width: 206px;
+	height: 200px;
+	margin-right: -50px;
+	margin-left: 30px;
+	float: left;
+}
+
+#sesta{
+	width: 100%;
+	height: 50px;
+	margin: auto;
+	background-color: darkblue;
+}
+
+#inter3{
+	width: 940px;
+	height: 50px;
+	margin: auto;
+}
+
+#copyright{
+	width: 400px;
+	height: 50px;
+	float: left;
+}
+
+#algomas{
+	width: 200px;
+	height: 50px;
+	float: right;
+
+}
+
+#contenidoContacto{
+	width: 940px;
+	height: 700px;
+	margin: auto;
+	background-image: url(../img/insertcoin.gif);
+	background-size: contain;
+
+}
+
+#formulario{
+	width: 540px;
+	height: 700px;
+	float: right;
+	background-color: grey;
+}
+
+#imgformulario{
+	width: 400px;
+	height: 700px;
+	float: left;
+
+}
+
+div.gallery {
+    margin: 6px;
+    float: left;
+    width: 175px;
+}
+
+div.gallery:hover {
+    border: 1px solid transparent;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    background-color: transparent;
+}
+
+#contenidoGaleria{
+	color: white;
+	width: 240px;
+	height: 240px;
+	margin-left: 20px;
+}
+#contenidoGaleria2{
+	color: white;
+	width: 240px;
+	height: 400px;
+	margin-left: 20px;
+	margin-top: -320px;
+}
+
+
+
+#contenidoNosotros{
+	width: 940px;
+	height: 500px;
+	margin: auto;
+	background-color: transparent;
+}
+
+#nos1{
+	color: darkblue;
+	width: 940px;
+	height: 250px;
+	margin: auto;
+
+}
+
+#nosimg{
+	width: 465px;
+	height: 250px;
+	padding: 5px;
+	float: left;
+}
+
+#nosimg img{
+	width: 100%;
+    height: auto;
+}
+
+#nos2{
+	color: grey;
+	width: 940px;
+	height: 250px;
+	padding-top: 40px;
+}
+
+#ma{
+width: 250px;
+height: 300px;
+margin-left: 360px;
+margin-top: -200px;
+
+position: relative;
+}
+
+#mb{
+width: 250px;
+height: 300px;
+margin-left: 360px;
+float: bottom;
+
+position: relative;
+}
